@@ -28,4 +28,3 @@ jobs:
         env:
           JAVA_TOOL_OPTIONS: "-Dglass.platform=Monocle -Dmonocle.platform=Headless -Dprism.order=sw"
 
-      
